@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="change_name">Change name</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="change_name_text">New name</string>
+    <string name="change_name_button">Change</string>
+    <string name="change_name_title">Change name:</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_find_device">FindDevice</string>
+    <string name="main_title">Bluetooth chat</string>
+    <string name="find_device_title">New chat</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="sendButton">Send</string>
+    <string name="message">Message</string>
+</resources>
